@@ -4,7 +4,7 @@ This is a Java application designed for Employee Management to manage employee d
 
 ### 📋 Features
 
-The application provides a simple CRUD (Create, Read, Update, Delete) interface for managing employee records:
+The application provides a simple interface for managing employee records:
 
 1. Insert Employee Data
 - Input includes: Employee Code, Name, Gender, Position, and Salary.
